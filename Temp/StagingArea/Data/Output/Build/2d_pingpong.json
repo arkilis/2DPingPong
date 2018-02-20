@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "2DPingPong",
+"dataUrl": "2d_pingpong.data.unityweb",
+"asmCodeUrl": "2d_pingpong.asm.code.unityweb",
+"asmMemoryUrl": "2d_pingpong.asm.memory.unityweb",
+"asmFrameworkUrl": "2d_pingpong.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
