@@ -11,7 +11,7 @@
 #### Todo List
 
 1. [ ] Add AI Player
-2. [ ] Speed up for 
+2. [ ] Speed up for the ball
 
 
 #### How to make this game:
